@@ -1,4 +1,5 @@
-https://mybinder.org/v2/gh/dhirajhimani/Jaskerat_ML_Course
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dhirajhimani/Jaskerat_ML_Course)
+
 # Jaskirat ML Course
 This repository contains My daily notes and study material for the ML,
 
