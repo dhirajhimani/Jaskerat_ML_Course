@@ -21,3 +21,5 @@ Binary Tree and assignment
 
 ## Day 5,6,7
 Probability basics, and assignment Binomial Distribution Formula
+
+NOTE:- If you want to run the code on the fly without downloading just hit the binder icon, starting image in readme. 
