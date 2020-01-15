@@ -17,4 +17,5 @@ Linked List
 ## Day 4
 Binary Tree and assignment
 
-## Day 5
+## Day 5,6,7
+Probability basics, and assignment Binomial Distribution Formula
