@@ -1,0 +1,24 @@
+Introduction_to_Probability_and_Statistics
+
+Pages To Read :- 8,10,11,12,22,23,54,60,62,66,67,131,137,142,149,167,184,186
+
+8. VARIABLES AND DATA - variable & Experiment
+10. TYPES OF VARIABLES - qualitative(discrete and continuous) or quantitative
+11. GRAPHS FOR CATEGORICAL DATA
+12. Examples
+22. Interpreting Graphs with a Critical Eye
+23. Symmetric, Right/Left skewed Graphs
+54. MEASURES OF CENTER - Sigma_x_i which means “the sum of all the x measurements”
+60. MEASURES OF VARIABILITY - standard deviation & variance
+62. Explanation
+66. ON THE PRACTICAL SIGNIFICANCE OF THE STANDARD DEVIATION
+67. Tchebysheff’s Theorem - Given a number k greater than or equal to 1 and a set of n measurements,
+    at least [1  (1/k2)] of the measurements will lie within k standard deviations of their mean.
+131. CALCULATING PROBABILITIES USING SIMPLE EVENTS
+137. USEFUL COUNTING RULES
+142. Permuatation(Order matter)
+149. Combination (Order doesn't matter)
+167. The Mean and Standard Deviation for a Discrete Random Variable
+184. THE BINOMIAL PROBABILITY DISTRIBUTION
+186. If the sample size is large relative to the population size—in particular, if 
+     n/N  .05—then the resulting experiment is not binomial
