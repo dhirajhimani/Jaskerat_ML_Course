@@ -58,5 +58,21 @@ hypothesis testing, please watch this lecture:
 
 https://jaskiratsingh.wiziqxt.com/online-class/1071081
 
+Lecture Notes:-
+
+
+[Relationship_bw_Probability_and_Relative_Frequency.pdf](Books/JaskiratNotes/Relationship_bw_Probability_and_Relative_Frequency.pdf)
+
+[Sample_and_Population_Statistics.pdf](Sample_and_Population_Statistics.pdf)
+
+[Sample_and_Population_Statistics_2.pdf](Sample_and_Population_Statistics_2.pdf)
+
+[Maximum_Likelihood_Estimation_Morning_Batch.pdf](Books/JaskiratNotes/Maximum_Likelihood_Estimation_Morning_Batch.pdf)
+
+
+
+
+
+
 
 NOTE:- If you want to run the code on the fly without downloading just hit the binder icon, starting image in the readme. 
