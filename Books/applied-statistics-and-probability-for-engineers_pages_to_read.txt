@@ -1,0 +1,18 @@
+Book - Applied Statistics and Probability for Engineers
+
+For covering Sampling Distributions, Central Limit Theorem, Maximum Likelihood Estimation and Point Estimators
+please read these page numbers: 
+
+239
+240
+241
+242
+243
+249
+251
+258
+259
+260
+261
+262.
+

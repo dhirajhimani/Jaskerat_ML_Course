@@ -1,0 +1,49 @@
+Book - Applied Statistics and Probability for Engineers
+
+For covering Sampling Distributions, Central Limit Theorem, Maximum Likelihood Estimation and Point Estimators
+please read these page numbers: 
+
+239 - Introduction
+240 - Point Estimation
+
+the statistic ˆ Θ = … ( ) h X , X , ,Xn 1 2 is called a point estimator of θ. Note that ˆ Θ is a random variable because
+it is a function of random variables. After the sample has been selected, ˆ Θ takes on a particular
+numerical value θ ∧ called the point estimate of θ.
+
+241 - A point estimate of some population parameter θ is a single numerical value ˆθ of a
+statistic ˆΘ. The statistic ˆΘ is called the point estimator.
+
+242 Sampling Distributions and the Central Limit Theorem
+A statistic is any function of the observations in a random sample.
+The probability distribution of a statistic is called a sampling distribution
+
+243 Central Limit Theorem
+
+If X X Xn 1, 2,…, is a random sample of size n taken from a population (either finite or
+infinite) with mean μ and finite variance σ2 and if X is the sample mean, the limiting
+form of the distribution of
+Z = ((X / n) −μ) / (σ/n^2) as n→∞, is the standard normal distribution.
+
+using this formaul we calculate the z-score and see the table to calculate the P(X) on standard normal Distributions
+
+249 - 251 - Variance of a Point Estimator
+
+Minimum Variance Unbiased Estimator - 
+If we consider all unbiased estimators of θ, the one with the smallest variance is
+called the minimum variance unbiased estimator (MVUE).
+
+If X ,X , ,Xn 1 2 … is a random sample of size n from a normal distribution with mean μ
+and variance σ2, the sample mean X is the MVUE for μ.
+
+258 - Methods of Point Estimation
+
+Method of Maximum Likelihood - We have derived the equation and shown the result on notebook, please see those
+ pdf- Maximum_Likelihood_Estimation_Morning_Batch.pdf
+
+
+259
+260
+261
+262
+ It solves the equation in above pages .
+
