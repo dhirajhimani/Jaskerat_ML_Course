@@ -1,9 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dhirajhimani/Jaskerat_ML_Course/master)
 
-# Jaskirat ML Course
+# ML Notes
 This repository contains My daily notes and study material for the ML,
-
-Each day will have its own notebook and assignment. If an assignment is too long it would be in a separate notebook.
 
 From Notebook, I mean .ipynb file
 
