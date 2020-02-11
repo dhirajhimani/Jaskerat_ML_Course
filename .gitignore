@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data Files which are large in size and could be downloaded from somewhere else like kaggle etc
+data/DevanagariHandwrittenCharacterDataset.zip
+data/DevanagariHandwrittenCharacterDataset/*
