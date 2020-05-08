@@ -129,5 +129,12 @@ dmypy.json
 .pyre/
 
 # Data Files which are large in size and could be downloaded from somewhere else like kaggle etc
+# Compressed Files
 data/DevanagariHandwrittenCharacterDataset.zip
+data/DevanagariHandwrittenDigitsDataset.zip
+data/digit-recognizer.zip
+
+# Uncompressed Files
 data/DevanagariHandwrittenCharacterDataset/*
+data/DevanagariHandwrittenDigitsDataset/*
+data/digit-recognizer/*
