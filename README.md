@@ -17,7 +17,7 @@ From Notebook, I mean .ipynb file
 * Devnagiri Digits recoginition (Still requires more regurazation than PCA)
 * MNIST Digit Recoginition 
 * Shark Tank deal prediction using nltk (TFIDF missing will be adding soon)
-* 
+* Naive Bayes Mushroom classification (Got involved very deep but got very good accuracy)
 
 
 
