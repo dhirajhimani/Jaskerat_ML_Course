@@ -3,7 +3,6 @@
 # ML Notes
 This repository contains My daily notes and study material for the ML,
 
-From Notebook, I mean .ipynb file
 
 * Python  Basics
 * Numpy Basics & Some intro to Classes and Objects
